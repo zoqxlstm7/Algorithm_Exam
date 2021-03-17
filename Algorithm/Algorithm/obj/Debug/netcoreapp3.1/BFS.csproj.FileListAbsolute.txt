@@ -1,0 +1,13 @@
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.exe
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.deps.json
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.json
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.dev.json
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.dll
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.pdb
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.csprojAssemblyReference.cache
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.AssemblyInfoInputs.cache
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.AssemblyInfo.cs
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.csproj.CoreCompileInputs.cache
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.dll
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.pdb
+C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.genruntimeconfig.cache
