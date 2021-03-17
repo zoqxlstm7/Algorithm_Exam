@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zoqxl\\source\\repos\\Algorithm\\Algorithm\\Algorithm\\BFS.csproj",
+      "projectUniqueName": "D:\\Repository\\Algorithm_Exam_CSharp\\Algorithm\\Algorithm\\BFS.csproj",
       "projectName": "BFS",
-      "projectPath": "C:\\Users\\zoqxl\\source\\repos\\Algorithm\\Algorithm\\Algorithm\\BFS.csproj",
+      "projectPath": "D:\\Repository\\Algorithm_Exam_CSharp\\Algorithm\\Algorithm\\BFS.csproj",
       "packagesPath": "C:\\Users\\zoqxl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zoqxl\\source\\repos\\Algorithm\\Algorithm\\Algorithm\\obj\\",
+      "outputPath": "D:\\Repository\\Algorithm_Exam_CSharp\\Algorithm\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zoqxl\\AppData\\Roaming\\NuGet\\NuGet.Config",

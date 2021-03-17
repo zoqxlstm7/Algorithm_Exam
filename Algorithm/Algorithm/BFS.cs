@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Algorithm
 {
-    class Program
+    class BFS
     {
         static int number = 7;
         static bool[] check = new bool[8];
