@@ -1,0 +1,13 @@
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.exe
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.deps.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.runtimeconfig.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.runtimeconfig.dev.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.dll
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\bin\Debug\netcoreapp3.1\DFS.pdb
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.csprojAssemblyReference.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfoInputs.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfo.cs
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.csproj.CoreCompileInputs.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.dll
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.pdb
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\DFS\obj\Debug\netcoreapp3.1\DFS.genruntimeconfig.cache

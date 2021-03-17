@@ -11,3 +11,16 @@ C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.
 C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.dll
 C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.pdb
 C:\Users\zoqxl\source\repos\Algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.genruntimeconfig.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.exe
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.deps.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.runtimeconfig.dev.json
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.dll
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\BFS.pdb
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.csprojAssemblyReference.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.AssemblyInfoInputs.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.AssemblyInfo.cs
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.csproj.CoreCompileInputs.cache
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.dll
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.pdb
+D:\Repository\Algorithm_Exam_CSharp\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\BFS.genruntimeconfig.cache

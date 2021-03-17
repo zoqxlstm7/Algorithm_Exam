@@ -1,9 +1,11 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace Algorithm
 {
+    /// <summary>
+    /// 큐 자료구조를 활용
+    /// </summary>
     class BFS
     {
         static int number = 7;
