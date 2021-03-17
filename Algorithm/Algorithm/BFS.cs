@@ -52,6 +52,7 @@ namespace Algorithm
 
         static void Bfs(int start)
         {
+            // 시작 노드를 큐에 넣고 방문처리한다.
             Queue<int> q = new Queue<int>();
             q.Enqueue(start);
             check[start] = true;
@@ -61,6 +62,8 @@ namespace Algorithm
             {
                 int x = q.Dequeue();
                 Console.Write("{0} ", x);
+
+                // 연결된 노드 중 방문하지 않을 노드를 큐에 넣고 방문처리한다.
                 for (int i = 0; i < a[x].Count; i++)
                 {
                     int y = a[x][i];
