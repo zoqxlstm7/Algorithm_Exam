@@ -48,6 +48,9 @@ namespace Algorithm
 
             // bfs 실행
             Bfs(1);
+
+            // 출력
+            // 1 2 3 4 5 6 7
         }
 
         static void Bfs(int start)

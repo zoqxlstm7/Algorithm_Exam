@@ -2,7 +2,7 @@
 
 namespace DFS
 {
-    class Program
+    class DFS
     {
         static void Main(string[] args)
         {
